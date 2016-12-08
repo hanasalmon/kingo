@@ -1,0 +1,17 @@
+.intro-bg{
+}
+.vid-container .vid-emblem{
+	margin-bottom: -90px;
+	object-position: center;
+	align-items: center;
+}
+.vid-container h2{
+	font-family: 'open_sansregular',sans-serif;
+	align-items: center;
+    font-size: 32px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    line-height: 41px;
+    padding: 7px 7px 7px 15px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,67 @@
+/*student life css*/
+
+.ms-title {
+	padding-left: 80px;
+	padding-right: 80px;
+} 
+.ms-title a{
+            cursor: url("../images/plus.png") 40 40, crosshair;
+            -webkit-transition: all .4s ease-in-out;
+               -moz-transition: all .4s ease-in-out;
+                -ms-transition: all .4s ease-in-out;
+                 -o-transition: all .4s ease-in-out;
+                    transition: all .4s ease-in-out;
+}
+h1 {
+    font-family:'slabo_13pxregular',sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 76px;
+    text-transform: uppercase;
+}
+.ms-title h3 {
+	margin-top: 10px;
+}
+.ms-title h3 > span {
+    font-family:'slabo_13pxregular',sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    text-transform: uppercase;
+}
+
+/*SLIDEYS*/
+.left1{
+	background-image:url("../images/girl_studying.jpg") !important;
+    background-size: cover;
+}
+.left2{
+	background-image:url("../images/campus_1.jpg") !important;
+    background-size: cover;
+}
+.left3{
+	background-image:url("../images/waterfall.jpg") !important;
+    background-size: cover;
+}
+.left4{
+    background-image:url("../images/writing.jpg") !important;
+    background-size: cover;
+}
+
+/*SLIDEYS*/
+.right1{
+	background-image:url("../images/coffee_studying.jpg") !important;
+    background-size: cover;
+}
+.right2{
+	background-image:url("../images/bench.jpg") !important;
+    background-size: cover;
+}
+.right3{
+	background-image:url("../images/snow_sunset.jpg") !important;
+    background-size: cover;
+}
+.right4{
+    background-image:url("../images/classroom.jpg") !important;
+    background-size: cover;
+}
