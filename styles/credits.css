@@ -1,0 +1,93 @@
+/*student life css*/
+
+.ms-title {
+	padding-left: 80px;
+	padding-right: 80px;
+} 
+.ms-title a{
+            cursor: url("../images/plus.png") 40 40, crosshair;
+            -webkit-transition: all .4s ease-in-out;
+               -moz-transition: all .4s ease-in-out;
+                -ms-transition: all .4s ease-in-out;
+                 -o-transition: all .4s ease-in-out;
+                    transition: all .4s ease-in-out;
+}
+.ms-title h1 {
+    font-family: 'slabo_13pxregular',sans-serif;
+    font-size: 64px;
+    font-weight: 300;
+    line-height: 76px;
+    text-transform: uppercase;
+    color: white;
+}
+.ms-title h1 {
+	margin-top: 10px;
+}
+p {
+    color: white;
+    font-family: "open_sansregular",sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    
+}
+
+/*SLIDEYS*/
+.left1{
+	background-image:url("../images/capture.png") !important;
+    background-size: cover;
+}
+.left2{
+	background-image:url("../images/grey.png") !important;
+    background-size: cover;
+}
+.left3{
+	background-image:url("../images/cecile.jpg") !important;
+    background-size: cover;
+}
+.left4{
+    background-image:url("../images/grey.png") !important;
+    background-size: cover;
+}
+.left5{
+    background-image:url("../images/hana.jpg") !important;
+    background-size: cover;
+}
+.left6{
+    background-image:url("../images/grey.png") !important;
+    background-size: cover;
+}
+.left7{
+    background-image:url("../images/trevor.jpg") !important;
+    background-size: cover;
+}
+
+/*SLIDEYS*/
+.right1{
+	background-image:url("../images/grey.png") !important;
+    background-size: cover;
+}
+.right2{
+	background-image:url("../images/shesher.png") !important;
+    background-size: cover;
+}
+.right3{
+	background-image:url("../images/grey.png") !important;
+    background-size: cover;
+}
+.right4{
+    background-image:url("../images/ashley.jpg") !important;
+    background-size: cover;
+}
+.right5{
+    background-image:url("../images/grey.png") !important;
+    background-size: cover;
+}
+.right6{
+    background-image:url("../images/alex.png") !important;
+    background-size: cover;
+}
+.right7{
+    background-image:url("../images/grey.png") !important;
+    background-size: cover;
+}

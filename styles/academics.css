@@ -1,0 +1,35 @@
+.academics-container h2 > span{
+    font-size: 18px;
+    line-height: 28px;
+    font-family:  "Helvetica", sans-serif;
+    color:#FFFFFF;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding: 4px;
+
+}
+
+.academics-right-background1{
+
+    background: url("../images/hallway_mural.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.academics-right-background2{
+
+    background: url("../images/calculator_book.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.academics-left-background1{
+
+    background: url("../images/libraryHall.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.academics-left-background2{
+
+    background: url("../images/books.jpg") no-repeat center center;
+    background-size: cover;
+}
